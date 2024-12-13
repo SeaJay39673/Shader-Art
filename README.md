@@ -1,6 +1,8 @@
 # Description: 
 This is a basic shader program I wrote following a youtube [tutorial](https://www.youtube.com/watch?v=f4s1h2YETNY) to create fractals.
 
+![](Fractals.gif)
+
 ## Requirements:
 
 ### VCPKG:
